@@ -1,4 +1,4 @@
 # firstrepo
 This is my first repository.
 <br>
-Author - Tulsi Kesharwani
+Author - Tulsi Kesharwani (CU)
